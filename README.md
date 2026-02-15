@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 [![Made with Love](https://img.shields.io/badge/Made%20in-Goa-blue?style=for-the-badge)](https://www.google.com/maps/place/Goa)
 
-![Biryani Ipsum Banner](https://images.unsplash.com/photo-1633945274405-b6c8069047b0?q=80&w=1200&auto=format&fit=crop)
+![Biryani Ipsum Banner](https://www.shutterstock.com/image-photo/traditional-chicken-biryani-served-brass-600nw-2622739739.jpg)
 
 ## 🌶️ What is this?
 **Biryani Ipsum** is a fun, open-source tool for developers and designers. Instead of the standard *"Lorem ipsum dolor sit amet"*, this tool generates spicy, aromatic text using vocabulary from India's most beloved dish.
