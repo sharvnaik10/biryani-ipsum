@@ -2,7 +2,6 @@
 
 > **The tastiest placeholder text generator for developers who love flavor.** > *Forget boring Latin; serve your layouts with Dum.*
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-FF9933?style=for-the-badge&logo=html5&logoColor=white)](https://sharvnaik.github.io/biryani-ipsum/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 [![Made with Love](https://img.shields.io/badge/Made%20in-Goa-blue?style=for-the-badge)](https://www.google.com/maps/place/Goa)
 
