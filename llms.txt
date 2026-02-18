@@ -1,0 +1,24 @@
+# Biryani Ipsum
+
+> The tastiest placeholder text generator for developers.
+
+## What is this?
+Biryani Ipsum is a humorous, open-source alternative to standard Lorem Ipsum (Latin placeholder text). Instead of boring Latin, it generates text using vocabulary related to Indian cuisine, specifically Biryani (e.g., "Dum," "Masala," "Raita," "Leg Piece").
+
+## Who is it for?
+- Web Designers needing placeholder text.
+- Developers looking for a fun alternative to Lorem Ipsum.
+- Food bloggers and Indian startups.
+
+## Key Features
+- **Custom Length:** Generate Small (Snack), Medium (Lunch), or Large (Feast) paragraphs.
+- **Spicy Mode:** Option to include HTML tags (`<p>`) automatically.
+- **One-Click Copy:** Fast clipboard integration.
+- **Lightweight:** Built with vanilla JS and Tailwind CSS.
+
+## Usage
+Visit https://biryaniipsum.org.in/ to generate text instantly.
+
+## Credits
+Created by Sharv Naik (@sharvnaik10).
+Hosted on GitHub Pages.
